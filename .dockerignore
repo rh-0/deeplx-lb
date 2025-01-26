@@ -1,0 +1,16 @@
+Dockerfile
+docker-compose.yml
+node_modules
+pnpm-lock.yml
+.git
+.gitignore
+*.md
+dist
+.idea
+.vercel
+.vercelignore
+.env
+img
+vercel.json
+postcss.config.cjs
+tailwind.config.cjs
